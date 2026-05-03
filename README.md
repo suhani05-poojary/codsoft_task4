@@ -53,25 +53,25 @@ python rock_paper_scissors.py
 ## 📷 Screenshots Explanation
 
 ### 🔹 Game Start + First Round
-User enters a choice, computer generates a random choice, and result is displayed.
+
 ![Start](screenshots/1_start.png)
 
 ---
 
 ### 🔹 User Wins Case
-Example where user choice beats computer choice.
+
 ![User Win](screenshots/2_user_win.png)
 
 ---
 
 ### 🔹 Computer Wins Case
-Example where computer wins based on game logic.
+
 ![Computer Win](screenshots/3_computer_win.png)
 
 ---
 
 ### 🔹 Score Tracking + Exit
-Shows updated score and how the game ends when user selects "no".
+
 ![Exit](screenshots/4_score_exit.png)
 
 ---
